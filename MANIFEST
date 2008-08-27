@@ -17,4 +17,6 @@ README
 share/qemu.img
 t/01_compile.t
 t/02_main.t
-t/99_author.t
+t/97_meta.t
+t/98_pod.t
+t/99_pmv.t
